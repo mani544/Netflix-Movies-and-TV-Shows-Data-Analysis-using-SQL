@@ -4,7 +4,7 @@
 
 #  **Netflix Movies & TV Shows Data Analysis using SQL**
 
-![Netflix Logo](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![Netflix Logo](https://github.com/mani544/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL/blob/main/Netflix_logo.png)
 
 ## 📌 **Overview**
 
